@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CSP\\Desktop\\Uni\\all-projects\\binarytodecimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{516E73CD-428D-496E-93E0-91089D109BC4}|binarytodecimal.vcxproj|C:\\Users\\CSP\\Desktop\\Uni\\all-projects\\binarytodecimal\\binarytodecimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{516E73CD-428D-496E-93E0-91089D109BC4}|binarytodecimal.vcxproj|solutionrelative:binarytodecimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binarytodecimal.cpp",
+              "DocumentMoniker": "C:\\Users\\CSP\\Desktop\\Uni\\all-projects\\binarytodecimal\\binarytodecimal.cpp",
+              "RelativeDocumentMoniker": "binarytodecimal.cpp",
+              "ToolTip": "C:\\Users\\CSP\\Desktop\\Uni\\all-projects\\binarytodecimal\\binarytodecimal.cpp",
+              "RelativeToolTip": "binarytodecimal.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T22:58:39.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
