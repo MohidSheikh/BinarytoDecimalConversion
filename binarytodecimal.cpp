@@ -14,9 +14,8 @@ int main()
     int base = 1;
 
     while (num > 0) {
-        int last_digit = num % 10;
+        dec_value = dec_value + num%10 * base;
         num /= 10;
-        dec_value = dec_value + last_digit * base;
         base = base * 2;
 
     }
